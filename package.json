@@ -12,8 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/minhoyoo1899/constructor-function/issues"
   },
-  "homepage": "https://github.com/minhoyoo1899/constructor-function#readme"
+  "homepage": "https://github.com/minhoyoo1899/constructor-function#readme"  
 }
